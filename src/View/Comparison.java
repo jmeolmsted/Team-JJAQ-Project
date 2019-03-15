@@ -1,6 +1,6 @@
 
 package View;
-
+ 
 /**
  * This class creates the holds and organize an array list of Project objects for us in the program.
  * 

@@ -1,5 +1,5 @@
 package View;
-
+ 
 /**
  * This class creates the SizeOfProject object for use by the Project and Comparison class.
  * 

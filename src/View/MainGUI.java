@@ -1,7 +1,7 @@
 package View;
 
 /*
- * TCSS 360 � Winter 2019
+ * TCSS 360 � Winter 2019 
  * 
  * 
  * WANT TO ADD A "ARE YOU SURE" WHEN YOU CLICK CANCEL FOR THE CREATING NEW PROJECT PAGE

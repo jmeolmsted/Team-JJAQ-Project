@@ -1,5 +1,5 @@
 package View;
-
+ 
 /**
  * This class creates the Difficulty object for use by the Project and Comparison class.
  * 
